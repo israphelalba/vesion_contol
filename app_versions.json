@@ -1,0 +1,25 @@
+{
+    "com.dev.coolcv.coolcv": {
+        "latest_version": "1.0.1",
+        "force_update": false,
+        "android_url": "https://play.google.com/store/apps/details?id=com.dev.coolcv.coolcv",
+        "ios_url": "https://apps.apple.com/app/idXXXXXXXXX",
+        "release_notes": {
+            "es": "¡Hemos añadido nuevas plantillas premium y corregido errores en la edición de fotos!",
+            "en": "We've added new premium templates and fixed photo editing bugs!",
+            "pt": "Adicionamos novos modelos premium e corrigimos bugs na edição de fotos!",
+            "fr": "Nous avons ajouté de nouveaux modèles premium et corrigé des bugs dans l'édition de photos !",
+            "de": "Wir haben neue Premium-Plantillas hinzugefügt und Fehler in der Foto-Verarbeitung behebt!"
+        }
+    },
+    "com.tu.otra.app": {
+        "latest_version": "2.1.0",
+        "force_update": true,
+        "android_url": "https://play.google.com/store/apps/details?id=com.tu.otra.app",
+        "ios_url": "https://apps.apple.com/app/idYYYYYYYYY",
+        "release_notes": {
+            "es": "Actualización crítica de seguridad. Es necesario actualizar para continuar.",
+            "en": "Critical security update. Update required to continue."
+        }
+    }
+}
