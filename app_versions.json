@@ -1,15 +1,15 @@
 {
     "com.dev.coolcv.coolcv": {
-        "latest_version": "1.0.14",
+        "latest_version": "1.0.15",
         "force_update": false,
         "android_url": "https://play.google.com/store/apps/details?id=com.dev.coolcv.coolcv",
         "ios_url": "https://apps.apple.com/app/idXXXXXXXXX",
         "release_notes": {
-            "es": "¡Hemos añadido nuevas plantillas premium y corregido errores en la edición de fotos!",
-            "en": "We've added new premium templates and fixed photo editing bugs!",
-            "pt": "Adicionamos novos modelos premium e corrigimos bugs na edição de fotos!",
-            "fr": "Nous avons ajouté de nouveaux modèles premium et corrigé des bugs dans l'édition de photos !",
-            "de": "Wir haben neue Premium-Plantillas hinzugefügt und Fehler in der Foto-Verarbeitung behebt!"
+            "es": "¡Hemos añadido nuevas plantillas premium!",
+            "en": "We've added new premium templates!",
+            "pt": "Adicionamos novos modelos premium!",
+            "fr": "Nous avons ajouté de nouveaux modèles premium!",
+            "de": "Wir haben neue Premium-Plantillas hinzugefügt!"
         }
     },
     "com.tu.otra.app": {
