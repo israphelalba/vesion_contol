@@ -12,14 +12,14 @@
             "de": "Wir haben neue Premium-Plantillas hinzugefügt!"
         }
     },
-    "com.tu.otra.app": {
-        "latest_version": "2.1.0",
+    "com.dev.mifiniuito.mifiniquito": {
+        "latest_version": "5.2.0",
         "force_update": true,
-        "android_url": "https://play.google.com/store/apps/details?id=com.tu.otra.app",
+        "android_url": "https://play.google.com/store/apps/details?id=com.dev.mifiniuito.mifiniquito",
         "ios_url": "https://apps.apple.com/app/idYYYYYYYYY",
         "release_notes": {
-            "es": "Actualización crítica de seguridad. Es necesario actualizar para continuar.",
-            "en": "Critical security update. Update required to continue."
+            "es": "Se han actualizado los parámetros de referencia para el cálculo del ISR, así como las medidas de seguridad",
+            "en": "Updated reference parameters for ISR calculation, as well as security measures."
         }
     }
 }
