@@ -21,5 +21,33 @@
             "es": "Se han actualizado los parámetros de referencia para el cálculo del ISR, así como las medidas de seguridad",
             "en": "Updated reference parameters for ISR calculation, as well as security measures."
         }
+    },
+    "com.dev.medicalendar.medicalendar": {
+        "latest_version": "5.2.0",
+        "force_update": false,
+        "android_url": "https://play.google.com/store/apps/details?id=com.dev.medicalendar.medicalendar",
+        "ios_url": "https://apps.apple.com/app/idYYYYYYYYY",
+        "release_notes": {
+            "es": "Se han actualizado los parámetros de referencia para el cálculo del ISR, así como las medidas de seguridad",
+            "en": "Updated reference parameters for ISR calculation, as well as security measures."
+        }
+    },
+    "com.dev.albatross": {
+        "latest_version": "1.0.8",
+        "force_update": true,
+        "android_url": "https://play.google.com/store/apps/details?id=com.dev.albatross",
+        "ios_url": "https://apps.apple.com/app/idYYYYYYYYY",
+        "release_notes": {
+            "es": "Nuevas funcionalidades de navegación, bloqueo de páginas y configuraciones de seguridad ",
+            "en": "New navigation features, page blocking, and security settings",
+            "fr": "Nouvelles fonctionnalités de navigation, blocage de pages et paramètres de sécurité",
+            "de": "Neue Navigationsfunktionen, Seitensperre und Sicherheitseinstellungen",
+            "it": "Nuove funzionalità di navigazione, blocco pagine e impostazioni di sicurezza",
+            "pt": "Novas funcionalidades de navegação, bloqueio de páginas e configurações de segurança",
+            "jp": "新しいナビゲーション機能、ページブロック、セキュリティ設定",
+            "ko": "새로운 탐색 기능, 페이지 차단 및 보안 설정",
+            "ru": "Новые функции навигации, блокировка страниц и настройки безопасности",
+            "zh": "新的导航功能，页面拦截和安全设置"
+        }
     }
 }
